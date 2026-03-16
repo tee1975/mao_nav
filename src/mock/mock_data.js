@@ -5,7 +5,50 @@ export const mockData = {
       "icon": "🌐",
       "name": "新闻网站",
       "order": 0,
-      "sites": []
+      "sites": [
+        {
+          "id": "site-1773675639846",
+          "name": "今日头条",
+          "url": "https://www.toutiao.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1773675670894",
+          "name": "知乎网",
+          "url": "https://www.zhihu.com/signin?next=%2F",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1773675704930",
+          "name": "凤凰网",
+          "url": "https://www.ifeng.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1773675722449",
+          "name": "新浪网",
+          "url": "https://www.sina.com.cn/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1773675747344",
+          "name": "环球网",
+          "url": "https://www.huanqiu.com/",
+          "description": "",
+          "icon": ""
+        },
+        {
+          "id": "site-1773675772128",
+          "name": "参考消息",
+          "url": "https://www.cankaoxiaoxi.com/?ckxx#/index",
+          "description": "",
+          "icon": ""
+        }
+      ]
     },
     {
       "id": "my-favorites",
